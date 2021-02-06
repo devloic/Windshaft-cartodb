@@ -1,4 +1,1 @@
-[submodule "private"]
-	path = private
-	url = git@github.com:CartoDB/Windshaft-cartodb-private.git
-	branch = master
+
